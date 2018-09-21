@@ -1,0 +1,8 @@
+E:\练习项目\BulkData\BulkData\bin\Debug\BulkData.dll
+E:\练习项目\BulkData\BulkData\bin\Debug\BulkData.pdb
+E:\练习项目\BulkData\BulkData\obj\Debug\BulkData.dll
+E:\练习项目\BulkData\BulkData\obj\Debug\BulkData.pdb
+E:\个人项目\批量更新数据2.0版本\BulkData\BulkData\bin\Debug\BulkData.dll
+E:\个人项目\批量更新数据2.0版本\BulkData\BulkData\bin\Debug\BulkData.pdb
+E:\个人项目\批量更新数据2.0版本\BulkData\BulkData\obj\Debug\BulkData.dll
+E:\个人项目\批量更新数据2.0版本\BulkData\BulkData\obj\Debug\BulkData.pdb
